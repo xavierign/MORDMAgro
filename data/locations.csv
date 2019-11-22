@@ -1,0 +1,15 @@
+a,"id",b,"id_num",y,long,n,ciudad,x,lat, station
+"_id","0fdb529b417187a8","weather_station",87467,"coord_y","-32.7","name","Marcos Juárez","coord_x","-62.15","Marcos Juarez Aerodrome"
+"_id","13200f515c0df6f4","weather_station",87637,"coord_y","-37.43","name","Coronel Suárez","coord_x","-61.88",
+"_id","19d93b49b6d79a03","weather_station",87544,"coord_y","-35.87","name","Pehuajó","coord_x","-61.9","Pehuajo Aerodrome"
+"_id","265a3b2678805448","weather_station",87270,"coord_y","-29.18","name","Reconquista","coord_x","-59.7",
+"_id","497d756bd35ec884","weather_station",87645,"coord_y","-37.23","name","Tandil","coord_x","-59.25","Tandil Aerodrome"
+"_id","51d7f3610d236e5e","weather_station",87374,"coord_y","-31.78","name","Paraná","coord_x","-60.48","Parana Aerodrome"
+"_id","68dbc0454caabee6","weather_station",87349,"coord_y","-31.67","name","Pilar","coord_x","-63.88","Pilar Observatorio"
+"_id","7c4b9e1af1a8b194","weather_station",87550,"coord_y","-35.45","name","Nueve de Julio","coord_x","-60.88","NUEVE DE JULIO"
+"_id","9936582c1e31576a","weather_station",87453,"coord_y","-33.12","name","Río Cuarto","coord_x","-64.23","Rio Cuarto Aerodrome"
+"_id","ace38fba7d524c2c","weather_station",87534,"coord_y","-34.13","name","Laboulaye","coord_x","-63.37","Laboulaye"
+"_id","b3adb8e641bc2657","weather_station",87688,"coord_y","-38.33","name","Tres Arroyos","coord_x","-60.25","Tres Arroyos"
+"_id","c073b44c07608007","weather_station",87497,"coord_y","-33","name","Gualeguaychú","coord_x","-58.62","Gualeguaychu Aerodrome"
+"_id","c4462b677ee3503f","weather_station",87548,"coord_y","-34.55","name","Junín","coord_x","-60.92","Junin Aerodrome"
+"_id","d2cd37da6cee59ff","weather_station",87649,"coord_y","-37.72","name","Benito Juárez","coord_x","-59.78",
