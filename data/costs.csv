@@ -1,8 +1,8 @@
-management,crop,cropVar,Harvest.percent,Transportation.cost.percent,Commercialization.cost.percent,Labors,Seeds,Agrochemicals,Others,Management,Seq,Land.rental
-25 Sept - 150N - 7pl,MZ-E,Mt,0.06,0.16,0.06,76.68,178.2,224.49,71.94,0,,228
-30 Nov - 130N - 6pl,MZ-L,MT,0.06,0.16,0.06,94.84,145.8,154.46,71.94,0,,228
-III Largo - 20 Oct,SB,S,0.06,0.16,0.05,80.9,49.6,40,71.94,0,,228
-IV Largo - 20 Oct,SB,S,0.06,0.16,0.05,80.9,49.6,40,71.94,0,,228
-IV Medio - 5 Dic,SB-L,S,0.06,0.16,0.05,66.25,55.8,30,71.94,0,2,114
-Intermedio-Corto - 25 Jun - 140N,WH,W,0.07,0.16,0.05,75.21,48,140,71.94,0,1,114
-Intermedio-Largo - 1 Jun - 140N,WH,W,0.07,0.16,0.05,78.3,52.8,163.51,71.94,0,1,114
+location,management,cropVar,crop,harvestPercent,transportationPercent,commercializationPercent,labors,seeds,agrochemicals,others,administration,seq,landRental
+Junín,25 Sept - 150N - 7pl,MZ-E,Mt,0.06,0.16,0.06,76.68,178.2,224.49,71.94,0,,228
+Junín,30 Nov - 130N - 6pl,MZ-L,MT,0.06,0.16,0.06,94.84,145.8,154.46,71.94,0,,228
+Junín,III Largo - 20 Oct,SB,S,0.06,0.16,0.05,80.9,49.6,40,71.94,0,,228
+Junín,IV Largo - 20 Oct,SB,S,0.06,0.16,0.05,80.9,49.6,40,71.94,0,,228
+Junín,IV Medio - 5 Dic,SB-L,S,0.06,0.16,0.05,66.25,55.8,30,71.94,0,2,114
+Junín,Intermedio-Corto - 25 Jun - 140N,WH,W,0.07,0.16,0.05,75.21,48,140,71.94,0,1,114
+Junín,Intermedio-Largo - 1 Jun - 140N,WH,W,0.07,0.16,0.05,78.3,52.8,163.51,71.94,0,1,114
