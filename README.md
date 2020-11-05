@@ -1,6 +1,6 @@
 # MORDMAgro
-This repo contains the scripts associated to the paper to be published titled "Many Objective Robust Decision-Making Model for Agriculture Decisions" <br>
-by: Xavier Ignacio González – Federico Bert
+This repo contains the scripts associated to the paper to be published titled "Many Objective Robust Decision-Making Model for Agriculture Decisions (MORDMAgro)" <br>
+by: Xavier Ignacio González – Federico Bert - Guillermo Podestá
 
 ## example:
 ```r
